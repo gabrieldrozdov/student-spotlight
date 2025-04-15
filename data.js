@@ -100,10 +100,10 @@ const data = [
 			}
 		],
 		"embeds": {
-			"index": "https://su0511.github.io/time-travel/",
-			"1990s": "https://su0511.github.io/time-travel/1990s/",
-			"2000s": "https://su0511.github.io/time-travel/2000s/",
-			"2010s": "https://su0511.github.io/time-travel/2010s/"
+			"index": "https://su0511.github.io/time-traveler-main/",
+			"1990s": "https://su0511.github.io/time-traveler-main/1990s/",
+			"2000s": "https://su0511.github.io/time-traveler-main/2000s/",
+			"2010s": "https://su0511.github.io/time-traveler-main/2010s/"
 		},
 		"active": true
 	},
