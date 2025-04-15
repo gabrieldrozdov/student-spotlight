@@ -180,10 +180,10 @@ const data = [
 			}
 		],
 		"embeds": {
-			"index": "https://jdou1116.github.io/time-traveler/",
-			"1990s": "https://jdou1116.github.io/time-traveler/1990s/",
-			"2000s": "https://jdou1116.github.io/time-traveler/2000s/",
-			"2010s": "https://jdou1116.github.io/time-traveler/2010s/"
+			"index": "https://m1nchaek.github.io/final_time_traveler/",
+			"1990s": "https://m1nchaek.github.io/final_time_traveler/1990s/",
+			"2000s": "https://m1nchaek.github.io/final_time_traveler/2000s/",
+			"2010s": "https://m1nchaek.github.io/final_time_traveler/2010s/"
 		},
 		"active": true
 	},
