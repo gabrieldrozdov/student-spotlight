@@ -20,7 +20,7 @@ homeHeaderTitleSmall.innerHTML = temp;
 setTimeout(function() {
 	let homeHeaderTitleBig = document.querySelector('.home-header-title-big');
 	let homeHeaderTitleBigShadow = `-0px 0px var(--black)`;
-	for (let i=0; i<100; i++) {
+	for (let i=0; i<50; i++) {
 		homeHeaderTitleBigShadow += `, -${i/200}em ${i/200}em var(--black)`;
 		homeHeaderTitleBig.style.textShadow = homeHeaderTitleBigShadow;
 	}
