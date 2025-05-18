@@ -1,0 +1,211 @@
+[
+	{
+		"name": "Amy Ai",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/AmyIsLearning0309/Final-Project"
+			}
+		],
+		"embeds": {
+			"Portfolio": "https://aaiportfolio.com/"
+		},
+		"active": true
+	},
+	{
+		"name": "Clara Cayosa",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/clarasees/las-vegas"
+			}
+		],
+		"embeds": {
+			"Learning from Las Vegas": "https://learningfromlasvegas.live/"
+		},
+		"active": true
+	},
+	{
+		"name": "Natalie Ho",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/bignat7/Tundra-Type"
+			}
+		],
+		"embeds": {
+			"Tundra Type": "https://www.tundratype.com/"
+		},
+		"active": true
+	},
+	{
+		"name": "Isabel Lee",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/ilee03/project-3"
+			}
+		],
+		"embeds": {
+			"The Plant Index": "https://theplantindex.com/"
+		},
+		"active": true
+	},
+	{
+		"name": "Minnie Lee",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/MinnieLee/Moon-Website"
+			}
+		],
+		"embeds": {
+			"Happily Ever Archive": "https://happilyeverarchive.com/"
+		},
+		"active": true
+	},
+	{
+		"name": "Zairan Liu",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/zairanliu/migratory-data"
+			}
+		],
+		"embeds": {
+			"Migratory Data": "https://migratory.site/",
+			"Migratory Data | Stats": "https://migratory.site/stat"
+		},
+		"active": true
+	},
+	{
+		"name": "Saachi Mehta",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/saachimehta23/Narratives-Biases"
+			}
+		],
+		"embeds": {
+			"The Bias of Memory": "https://thebiasofmemory.site/"
+		},
+		"active": true
+	},
+	{
+		"name": "Vishakha Ruhela",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/viltu08/Continuum"
+			}
+		],
+		"embeds": {
+			"CONTINUUM": "https://thcontinuum.com/"
+		},
+		"active": true
+	},
+	{
+		"name": "Jyot Thind",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/jyotkaurthind/ItsControversial"
+			}
+		],
+		"embeds": {
+			"It’s Constroversial": "https://itscontroversial.live/"
+		},
+		"active": true
+	},
+	{
+		"name": "Osmond Tshuma",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/Otshuma/Writing-system"
+			}
+		],
+		"embeds": {
+			"Isiko Script": "https://isikoscript.com/"
+		},
+		"active": true
+	},
+	{
+		"name": "Justin Xiao",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/jxiao01/lumimoria-website"
+			}
+		],
+		"embeds": {
+			"Lumimoria": "https://lumimoria.com/"
+		},
+		"active": true
+	},
+	{
+		"name": "Ryan Yan",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/yanshangyun/new-poetics"
+			}
+		],
+		"embeds": {
+			"Text, Typing, Transcendence": "https://newpoetics.net/"
+		},
+		"active": true
+	},
+	{
+		"name": "So Jung Yoon",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/yoonssojung/yoonssojung.github.io/tree/main/GDwithGD/babysteps/project3"
+			}
+		],
+		"embeds": {
+			"Is this a Garden?": "https://plantingseedseveryday.com/"
+		},
+		"active": true
+	},
+	{
+		"name": "Rocky Yuan",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/XitongYuan7/risdsunset"
+			}
+		],
+		"embeds": {
+			"index": "https://risdsunset.com/"
+		},
+		"active": true
+	},
+	{
+		"name": "Tony Zhao",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/TonyDFZhao/risd24-typeandcode-project3"
+			}
+		],
+		"embeds": {
+			"Portfolio": "https://tonyzhaostudio.com/"
+		},
+		"active": true
+	},
+	{
+		"name": "Tina Zhou",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/3dloser/type-and-code/tree/main/birds-of-prey"
+			}
+		],
+		"embeds": {
+			"Birds of Prey": "https://3dloser.github.io/type-and-code/birds-of-prey/"
+		},
+		"active": true
+	}
+]

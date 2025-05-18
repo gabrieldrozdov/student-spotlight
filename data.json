@@ -1,0 +1,62 @@
+[
+	{
+		"slug": "time-traveler-s25",
+		"title": "Time Traveler",
+		"subtitle": "Spring 2025",
+		"infoBasic": [
+			"RISD Spring 2025 semester",
+			"Completed over 4 weeks"
+		],
+		"infoLinks": [
+			["Class Syllabus", "https://classroom.gdwithgd.com/?course=introduction-to-computation-v1&resource=syllabus"],
+			["Project Description", "https://classroom.gdwithgd.com/?course=introduction-to-computation-v1&resource=time-traveler"]
+		],
+		"infoDesc": "<p>What does a website look like? Trick question: it depends on the year! In this project, we’ll travel through time to explore how web technology and design have evolved side-by-side.</p><p>Students begin by selecting an article. Then, they typeset that article as a website three times — using technologies from the 1990s, 2000s, and 2010s. Finally, they create a homepage that links all three versions of the article together.</p>",
+		"active": true
+	},
+	{
+		"slug": "not-a-book-f24",
+		"title": "Not a Book",
+		"subtitle": "Fall 2024",
+		"infoBasic": [
+			"RISD Fall 2024 semester",
+			"Completed over 4 weeks"
+		],
+		"infoLinks": [
+			["Class Syllabus", "https://classroom.gdwithgd.com/?course=type-and-code-v1&resource=syllabus"],
+			["Project Description", "https://classroom.gdwithgd.com/?course=type-and-code-v1&resource=project-3"]
+		],
+		"infoDesc": "<p>In design school, students often learn to design for print before they approach digital projects. As a result, their digital work can feel like an adaptation — or even a compromise — of designs originally intended for print. I asked my students to rethink this process: What makes a website fundamentally different from print media, and how can those differences be used in meaningful ways? In other words, what sets a website apart from a book? What can you code for the screen that you can’t design for paper? Every student took the prompt in their own direction, creating work that connected to their personal interests and style.</p>",
+		"active": true
+	},
+	{
+		"slug": "live-type-f24",
+		"title": "Live Type",
+		"subtitle": "Fall 2024",
+		"infoBasic": [
+			"RISD Fall 2024 semester",
+			"Completed over 5 weeks"
+		],
+		"infoLinks": [
+			["Class Syllabus", "https://classroom.gdwithgd.com/?course=type-and-code-v1&resource=syllabus"],
+			["Project Description", "https://classroom.gdwithgd.com/?course=type-and-code-v1&resource=project-2"]
+		],
+		"infoDesc": "<p>Variable fonts are a powerful innovation in type technology, enabling a single file to contain a full spectrum of styles and weights. In this project, students explored the creative potential of variable fonts, beginning with the design of pixel fonts and culminating in original or remixed variable font files. Throughout the process, they were challenged to consider how this technology could shape a meaningful user experience on the web. To bring their ideas to life, students built interactive digital specimens—web-based showcases that not only demonstrated their fonts in action, but also communicated the concepts behind them.</p>",
+		"active": true
+	},
+	{
+		"slug": "time-traveler-f24",
+		"title": "Time Traveler",
+		"subtitle": "Fall 2024",
+		"infoBasic": [
+			"RISD Fall 2024 semester",
+			"Completed over 3 weeks"
+		],
+		"infoLinks": [
+			["Class Syllabus", "https://classroom.gdwithgd.com/?course=type-and-code-v1&resource=syllabus"],
+			["Project Description", "https://classroom.gdwithgd.com/?course=type-and-code-v1&resource=project-1"]
+		],
+		"infoDesc": "<p>What does a website look like? Trick question: it depends on the year! In this project, we’ll travel through time to explore how web technology and design have evolved side-by-side.</p><p>Students begin by selecting an article. Then, they typeset that article as a website three times — using technologies from the 1990s, 2000s, and 2010s. Finally, they create a homepage that links all three versions of the article together.</p>",
+		"active": true
+	}
+]

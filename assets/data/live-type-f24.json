@@ -1,0 +1,210 @@
+[
+	{
+		"name": "Amy Ai",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://amyislearning0309.github.io/FontySpecimany/"
+			}
+		],
+		"embeds": {
+			"cOdiNG": "https://amyislearning0309.github.io/FontySpecimany/homepage.html"
+		},
+		"active": true
+	},
+	{
+		"name": "Clara Cayosa",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/clarasees/jeepnetica"
+			}
+		],
+		"embeds": {
+			"Jeepnetica": "https://clarasees.github.io/jeepnetica/"
+		},
+		"active": true
+	},
+	{
+		"name": "Natalie Ho",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/bignat7/Live-Type"
+			}
+		],
+		"embeds": {
+			"Aero": "https://bignat7.github.io/Live-Type/"
+		},
+		"active": true
+	},
+	{
+		"name": "Minah Kim",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/minahkim0421/type_code_specimen"
+			}
+		],
+		"embeds": {
+			"Amoeba Dance": "https://minahkim0421.github.io/type_code_specimen/"
+		},
+		"active": true
+	},
+	{
+		"name": "Isabel Lee",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/ilee03/risd24-typeandcode-project1"
+			}
+		],
+		"embeds": {
+			"Flow": "https://ilee03.github.io/risd24-typeandcode-project1/project-2/"
+		},
+		"active": true
+	},
+	{
+		"name": "Minnie Lee",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/MinnieLee/Moon-Website"
+			}
+		],
+		"embeds": {
+			"Moon": "https://minnielee.github.io/Moon-Website/"
+		},
+		"active": true
+	},
+	{
+		"name": "Zairan Liu",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/zairanliu/playbloc"
+			}
+		],
+		"embeds": {
+			"Playbloc": "https://zairanliu.github.io/playbloc/"
+		},
+		"active": true
+	},
+	{
+		"name": "Saachi Mehta",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/saachimehta23/Variable-Font-Web-Specimen"
+			}
+		],
+		"embeds": {
+			"Patches": "https://saachimehta23.github.io/Variable-Font-Web-Specimen/"
+		},
+		"active": true
+	},
+	{
+		"name": "Vishakha Ruhela",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/viltu08/"
+			}
+		],
+		"embeds": {
+			"Quantum Type Lab": "https://viltu08.github.io/Quantum-Type-Lab/"
+		},
+		"active": true
+	},
+	{
+		"name": "Jyot Thind",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/jyotkaurthind/Flutter"
+			}
+		],
+		"embeds": {
+			"Flutter": "https://jyotkaurthind.github.io/Flutter/"
+		},
+		"active": true
+	},
+	{
+		"name": "Osmond Tshuma",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/Otshuma/web"
+			}
+		],
+		"embeds": {
+			"Tonga": "https://otshuma.github.io/web/"
+		},
+		"active": true
+	},
+	{
+		"name": "Justin Xiao",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/jxiao01/tangram-type-specimen"
+			}
+		],
+		"embeds": {
+			"Tangram": "https://jxiao01.github.io/tangram-type-specimen/"
+		},
+		"active": true
+	},
+	{
+		"name": "Ryan Yan",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/yanshangyun/type-code"
+			}
+		],
+		"embeds": {
+			"Reservation Sans": "https://yanshangyun.github.io/type-code/variable/"
+		},
+		"active": true
+	},
+	{
+		"name": "Rocky Yuan",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/XitongYuan7/Landscript-Variable-Font"
+			}
+		],
+		"embeds": {
+			"Landscript": "https://xitongyuan7.github.io/Landscript-Variable-Font/"
+		},
+		"active": true
+	},
+	{
+		"name": "Tony Zhao",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/TonyDFZhao"
+			}
+		],
+		"embeds": {
+			"Flares": "https://tonydfzhao.github.io/risd24-typeandcode-project2/"
+		},
+		"active": true
+	},
+	{
+		"name": "Tina Zhou",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/3dloser/type-and-code"
+			}
+		],
+		"embeds": {
+			"Vibrations": "https://3dloser.github.io/type-and-code/project-2/"
+		},
+		"active": true
+	}
+]

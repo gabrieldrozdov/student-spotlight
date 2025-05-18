@@ -1,0 +1,302 @@
+[
+	{
+		"name": "Amy Ai",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/AmyIsLearning0309/risd24-typeandcode-project1"
+			},
+			{
+				"name": "Article",
+				"url": "https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/"
+			}
+		],
+		"embeds": {
+			"index": "https://amyislearning0309.github.io/risd24-typeandcode-project1/",
+			"v1": "https://amyislearning0309.github.io/risd24-typeandcode-project1/v1/",
+			"v2": "https://amyislearning0309.github.io/risd24-typeandcode-project1/v2/",
+			"v3": "https://amyislearning0309.github.io/risd24-typeandcode-project1/v3/"
+		},
+		"active": true
+	},
+	{
+		"name": "Clara Cayosa",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/clarasees/typeandcode-project1"
+			},
+			{
+				"name": "Article",
+				"url": "https://artsemerson.org/2012/03/23/cafe-culture-history-part-5-the-history-of-the/"
+			}
+		],
+		"embeds": {
+			"index": "https://clarasees.github.io/typeandcode-project1/",
+			"v1": "https://clarasees.github.io/typeandcode-project1/v1/",
+			"v2": "https://clarasees.github.io/typeandcode-project1/v2/",
+			"v3": "https://clarasees.github.io/typeandcode-project1/v3/"
+		},
+		"active": true
+	},
+	{
+		"name": "Natalie Ho",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/bignat7/Seeing-Stars"
+			},
+			{
+				"name": "Article",
+				"url": "https://www.newyorker.com/humor/daily-shouts/how-to-still-be-reminded-of-your-insignificance-even-when-light-pollution-makes-it-impossible-to-see-the-stars"
+			}
+		],
+		"embeds": {
+			"index": "https://bignat7.github.io/Seeing-Stars/",
+			"v1": "https://bignat7.github.io/Seeing-Stars/v1/",
+			"v2": "https://bignat7.github.io/Seeing-Stars/v2/",
+			"v3": "https://bignat7.github.io/Seeing-Stars/v3/"
+		},
+		"active": true
+	},
+	{
+		"name": "Minah Kim",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/minahkim0421/type-and-code-project-1"
+			},
+			{
+				"name": "Article",
+				"url": "https://www.scientificamerican.com/article/what-is-synesthesia/"
+			}
+		],
+		"embeds": {
+			"index": "https://minahkim0421.github.io/type-and-code-project-1/",
+			"v1": "https://minahkim0421.github.io/type-and-code-project-1/v1/",
+			"v2": "https://minahkim0421.github.io/type-and-code-project-1/v2/",
+			"v3": "https://minahkim0421.github.io/type-and-code-project-1/v3/"
+		},
+		"active": true
+	},
+	{
+		"name": "Isabel Lee",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/ilee03/risd24-typeandcode-project1"
+			},
+			{
+				"name": "Article",
+				"url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-digital-twin-technology"
+			}
+		],
+		"embeds": {
+			"index": "https://ilee03.github.io/risd24-typeandcode-project1/project-1/",
+			"v1": "https://ilee03.github.io/risd24-typeandcode-project1/project-1/v1/",
+			"v2": "https://ilee03.github.io/risd24-typeandcode-project1/project-1/v2/",
+			"v3": "https://ilee03.github.io/risd24-typeandcode-project1/project-1/v3/"
+		},
+		"active": true
+	},
+	{
+		"name": "Minnie Lee",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/MinnieLee/risd-typeandcode-project1"
+			},
+			{
+				"name": "Article",
+				"url": "https://martech.org/ai-content-creation-ushering-in-the-unimaginable/"
+			}
+		],
+		"embeds": {
+			"index": "https://minnielee.github.io/risd-typeandcode-project1/",
+			"v1": "https://minnielee.github.io/risd-typeandcode-project1/v1/",
+			"v2": "https://minnielee.github.io/risd-typeandcode-project1/v2/",
+			"v3": "https://minnielee.github.io/risd-typeandcode-project1/v3/"
+		},
+		"active": true
+	},
+	{
+		"name": "Saachi Mehta",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/saachimehta23/risd24-typeandcode-proj1"
+			},
+			{
+				"name": "Article",
+				"url": "https://www.smithsonianmag.com/history/brief-history-gif-early-internet-innovation-ubiquitous-relic-180963543/"
+			}
+		],
+		"embeds": {
+			"index": "https://saachimehta23.github.io/risd24-typeandcode-proj1/",
+			"v1": "https://saachimehta23.github.io/risd24-typeandcode-proj1/v1/",
+			"v2": "https://saachimehta23.github.io/risd24-typeandcode-proj1/v2/",
+			"v3": "https://saachimehta23.github.io/risd24-typeandcode-proj1/v3/"
+		},
+		"active": true
+	},
+	{
+		"name": "Vishakha Ruhela",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/viltu08/risd24-typeandcode-project1"
+			},
+			{
+				"name": "Article",
+				"url": "https://www.discovermagazine.com/technology/the-quantum-internet-will-blow-your-mind-heres-what-it-will-look-like"
+			}
+		],
+		"embeds": {
+			"index": "https://viltu08.github.io/risd24-typeandcode-project1/",
+			"v1": "https://viltu08.github.io/risd24-typeandcode-project1/v1/",
+			"v2": "https://viltu08.github.io/risd24-typeandcode-project1/v2/",
+			"v3": "https://viltu08.github.io/risd24-typeandcode-project1/v3/"
+		},
+		"active": true
+	},
+	{
+		"name": "Osmond Tshuma",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/otshuma/risd24-typeandcode"
+			},
+			{
+				"name": "Article",
+				"url": "https://luckysoap.com/statements/handmadeweb.html"
+			}
+		],
+		"embeds": {
+			"index": "https://otshuma.github.io/risd24-typeandcode/",
+			"v1": "https://otshuma.github.io/risd24-typeandcode/v1/",
+			"v2": "https://otshuma.github.io/risd24-typeandcode/v2/",
+			"v3": "https://otshuma.github.io/risd24-typeandcode/v3/"
+		},
+		"active": true
+	},
+	{
+		"name": "Justin Xiao",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/jxiao01/type-and-code-project-1-2"
+			},
+			{
+				"name": "Article",
+				"url": "https://en.wikipedia.org/wiki/Organism"
+			}
+		],
+		"embeds": {
+			"index": "https://jxiao01.github.io/type-and-code-project-1-2/",
+			"v1": "https://jxiao01.github.io/type-and-code-project-1-2/v1/",
+			"v2": "https://jxiao01.github.io/type-and-code-project-1-2/v2/",
+			"v3": "https://jxiao01.github.io/type-and-code-project-1-2/v3/"
+		},
+		"active": true
+	},
+	{
+		"name": "Ryan Yan",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/yanshangyun/type-code"
+			},
+			{
+				"name": "Article",
+				"url": "https://www.cjr.org/analysis/linkrot-content-drift-new-york-times.php"
+			}
+		],
+		"embeds": {
+			"index": "https://yanshangyun.github.io/type-code/time-traveller/",
+			"v1": "https://yanshangyun.github.io/type-code/time-traveller/1/",
+			"v2": "https://yanshangyun.github.io/type-code/time-traveller/2/",
+			"v3": "https://yanshangyun.github.io/type-code/time-traveller/3/"
+		},
+		"active": true
+	},
+	{
+		"name": "So Jung Yoon",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/yanshangyun/type-code"
+			},
+			{
+				"name": "Article",
+				"url": "https://www.nytimes.com/2024/08/01/arts/design/octagon-earthworks-ohio-golf-course.html"
+			}
+		],
+		"embeds": {
+			"index": "https://yoonssojung.github.io/GDwithGD/index.html",
+			"v1": "https://yoonssojung.github.io/GDwithGD/babysteps/project1/",
+			"v2": "https://yoonssojung.github.io/GDwithGD/babysteps/project1/v2/",
+			"v3": "https://yoonssojung.github.io/GDwithGD/babysteps/project1/v3/"
+		},
+		"active": true
+	},
+	{
+		"name": "Rocky Yuan",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/XitongYuan7/risd24-typeandcode-project1"
+			},
+			{
+				"name": "Article",
+				"url": "https://designingfriction.com/"
+			}
+		],
+		"embeds": {
+			"index": "https://xitongyuan7.github.io/risd24-typeandcode-project1/",
+			"v1": "https://xitongyuan7.github.io/risd24-typeandcode-project1/v1/",
+			"v2": "https://xitongyuan7.github.io/risd24-typeandcode-project1/v2/",
+			"v3": "https://xitongyuan7.github.io/risd24-typeandcode-project1/v3/"
+		},
+		"active": true
+	},
+	{
+		"name": "Tony Zhao",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/TonyDFZhao/risd24-typeandcode-project1"
+			},
+			{
+				"name": "Article",
+				"url": "https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/"
+			}
+		],
+		"embeds": {
+			"index": "https://tonydfzhao.github.io/risd24-typeandcode-project1/",
+			"v1": "https://tonydfzhao.github.io/risd24-typeandcode-project1/v1/",
+			"v2": "https://tonydfzhao.github.io/risd24-typeandcode-project1/v2/",
+			"v3": "https://tonydfzhao.github.io/risd24-typeandcode-project1/v3/"
+		},
+		"active": true
+	},
+	{
+		"name": "Tina Zhou",
+		"links": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/3dloser/type-and-code"
+			},
+			{
+				"name": "Article",
+				"url": "https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/"
+			}
+		],
+		"embeds": {
+			"index": "https://3dloser.github.io/type-and-code/project-1/",
+			"v1": "https://3dloser.github.io/type-and-code/project-1/v1/index.html",
+			"v2": "https://3dloser.github.io/type-and-code/project-1/v2/index.html",
+			"v3": "https://3dloser.github.io/type-and-code/project-1/v3/index.html"
+		},
+		"active": true
+	}
+]
