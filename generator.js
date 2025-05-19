@@ -284,7 +284,7 @@ function generatePages() {
 
 				<footer class="home-footer">
 					<p>
-						Interested in learning more about graphic design, typography, and web development? Check out <a href="https://gdwithgd.com/" target="_blank">GD with GD</a> for more resources!
+						Interested in learning more about design and creating coding? Check out <a href="https://gdwithgd.com/" target="_blank">GD with GD</a> for more resources!
 					</p>
 					<p>
 						If your work is featured on this site and you’d like it to be removed, please <a href="mailto:gabriel@noreplica.com" target="_blank">send me an email</a> and I’ll update the site!
