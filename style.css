@@ -1028,6 +1028,7 @@ body {
 	flex-grow: 1;
 	background-color: var(--light-gray);
 	border-right: 80px solid var(--primary);
+	outline: .5px solid var(--light-gray);
 	position: relative;
 	z-index: 1;
 	box-shadow: -8px 8px var(--black);
@@ -1057,9 +1058,11 @@ body {
 .index-link:hover {
 	background-color: var(--primary);
 	transform: translateX(20px);
+	outline: .5px solid var(--primary);
 }
 .index-link:active {
 	background-color: var(--black);
+	outline: .5px solid var(--black);
 	color: var(--primary);
 	transform: translateX(60px);
 }
