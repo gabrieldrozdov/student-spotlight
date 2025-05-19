@@ -20,11 +20,20 @@ homeHeaderTitleSmall.innerHTML = temp;
 setTimeout(function() {
 	let homeHeaderTitleBig = document.querySelector('.home-header-title-big');
 	let homeHeaderTitleBigShadow = `-0px 0px var(--black)`;
-	for (let i=0; i<50; i++) {
+	for (let i=0; i<25; i++) {
 		homeHeaderTitleBigShadow += `, -${i/200}em ${i/200}em var(--black)`;
 		homeHeaderTitleBig.style.textShadow = homeHeaderTitleBigShadow;
 	}
 }, 500)
+
+// Helper function to shuffle array
+function shuffleArray(array) {
+	for (let i = array.length - 1; i > 0; i--) {
+		const j = Math.floor(Math.random() * (i + 1));
+		[array[i], array[j]] = [array[j], array[i]];
+	}
+	return array;
+}
 
 // Previews
 let homeMenuLinkPreviews = document.querySelectorAll('.home-menu-link-previews');
@@ -34,7 +43,10 @@ for (let homeMenuLinkPreview of homeMenuLinkPreviews) {
 		.then((response) => response.json())
 		.then((json) => {
 			let temp = `<div class='home-menu-link-preview-group'>`;
-			for (let student of json) {
+
+			let shuffledJSON = shuffleArray(json);
+
+			for (let student of shuffledJSON) {
 				if (!student['active']) {
 					continue
 				}
