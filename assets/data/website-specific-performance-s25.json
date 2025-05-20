@@ -21,8 +21,7 @@
 			}
 		],
 		"embeds": {
-			"Mouse Concert - Lines": "https://jdou1116.github.io/Final-MouseConcert/Lines/",
-			"Mouse Concert - Pixel": "https://jdou1116.github.io/Final-MouseConcert/Pixel/"
+			"Mouse Concert": "https://jdou1116.github.io/Final-MouseConcert/"
 		},
 		"active": true
 	},
@@ -96,11 +95,11 @@
 		"links": [
 			{
 				"name": "GitHub",
-				"url": ""
+				"url": "https://github.com/Manajo22/Fidget-instruments"
 			}
 		],
 		"embeds": {
-			"Project": ""
+			"Fidget Instruments": "https://manajo22.github.io/Fidget-instruments/"
 		},
 		"active": true
 	},
