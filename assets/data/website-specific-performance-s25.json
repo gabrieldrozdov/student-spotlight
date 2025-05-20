@@ -122,11 +122,11 @@
 		"links": [
 			{
 				"name": "GitHub",
-				"url": ""
+				"url": "https://github.com/rlawhdlt/gamewebsite"
 			}
 		],
 		"embeds": {
-			"Project": ""
+			"Barn To Fight": "https://rlawhdlt.github.io/gamewebsite/"
 		},
 		"active": true
 	},
@@ -135,11 +135,11 @@
 		"links": [
 			{
 				"name": "GitHub",
-				"url": ""
+				"url": "https://github.com/QhaKim24/performance"
 			}
 		],
 		"embeds": {
-			"Project": ""
+			"Typing Melody": "https://qhakim24.github.io/performance24/"
 		},
 		"active": true
 	},
