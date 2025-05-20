@@ -1339,10 +1339,10 @@ body {
 	display: none;
 	background-color: white;
 }
-.student-embed:hover .student-embed-preview-iframe {
+/* .student-embed:hover .student-embed-preview-iframe {
 	display: block;
 	z-index: 9;
-}
+} */
 .student-embed-label {
 	font-size: 14px;
 	position: relative;

@@ -1,5 +1,20 @@
 [
 	{
+		"slug": "website-specific-performance-s25",
+		"title": "(Web)site-specific Performance",
+		"subtitle": "Spring 2025",
+		"infoBasic": [
+			"RISD Spring 2025 semester",
+			"Completed over 5 weeks"
+		],
+		"infoLinks": [
+			["Class Syllabus", "https://classroom.gdwithgd.com/?course=introduction-to-computation-v1&resource=syllabus"],
+			["Project Description", "https://classroom.gdwithgd.com/?course=introduction-to-computation-v1&resource=website-specific-performance"]
+		],
+		"infoDesc": "<p>Project description coming soon!</p>",
+		"active": true
+	},
+	{
 		"slug": "time-traveler-s25",
 		"title": "Time Traveler",
 		"subtitle": "Spring 2025",

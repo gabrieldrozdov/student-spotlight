@@ -22,12 +22,12 @@ for (let embed of document.querySelectorAll('.student-embed-container')) {
 	previewObserver.observe(embed);
 
 	embed.addEventListener('mouseenter', () => {
-		let iframe = embed.querySelector('iframe');
-		iframe.src = iframe.dataset.src;
+		// let iframe = embed.querySelector('iframe');
+		// iframe.src = iframe.dataset.src;
 	})
 	embed.addEventListener('mouseleave', () => {
-		let iframe = embed.querySelector('iframe');
-		iframe.src = "";
+		// let iframe = embed.querySelector('iframe');
+		// iframe.src = "";
 	})
 }
 
